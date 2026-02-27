@@ -1,28 +1,28 @@
 <h1 align="center">👋 Olá, eu sou o Matheus</h1>
 
 <p align="center">
-  💻 Programador em busca de desafios <br>
-  🚀 Apaixonado por tecnologia, código limpo e evolução constante
+  Programador em busca de desafios <br>
+   Apaixonado por tecnologia, código limpo e evolução constante
 </p>
 
 ---
 
 ### 🧠 Sobre mim
-- 🔭 Atualmente focado em **desenvolvimento e aprendizado contínuo**
-- 🎯 Objetivo: crescer como programador e construir projetos sólidos
-- 🌎 Sonho: trabalhar com tecnologia fora do Brasil
-- ⚡ Curiosidade: curto desafios, lógica e tudo que envolva código
+-  Atualmente focado em **desenvolvimento e aprendizado contínuo**
+-  Objetivo: crescer como programador e construir projetos sólidos
+-  Sonho: trabalhar com tecnologia fora do Brasil
+-  Curiosidade: curto desafios, lógica e tudo que envolva código
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,java,mysql,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Dc&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Dc&layout=compact&theme=tokyonight&hide_border=true" />
@@ -30,7 +30,7 @@
 
 ---
 
-### 🌐 Onde me encontrar
+### Onde me encontrar
 <p align="center">
   <a href="https://youtube.com" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
