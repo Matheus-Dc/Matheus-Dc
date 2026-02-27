@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 Sobre mim
+###  Sobre mim
 -  Atualmente focado em **desenvolvimento e aprendizado contínuo**
 -  Objetivo: crescer como programador e construir projetos sólidos
 -  Sonho: trabalhar com tecnologia fora do Brasil
@@ -18,14 +18,6 @@
 ### Tecnologias & Ferramentas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,java,mysql,git,github,vscode" />
-</p>
-
----
-
-### GitHub Stats
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Dc&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Dc&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
